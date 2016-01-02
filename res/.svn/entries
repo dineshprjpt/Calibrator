@@ -1,0 +1,52 @@
+10
+
+dir
+117
+https://svn.infostretch.com/svn/ISRAT/MISC/R&D/EventDebugger/res
+https://svn.infostretch.com/svn/ISRAT
+
+
+
+2013-05-03T04:58:05.869667Z
+115
+dinesh.prajapati@INFOSTRETCH
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+697e5fc1-3b1d-e34e-86b8-52c29526719c
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+values
+dir
+
+values-v11
+dir
+
+values-v14
+dir
+
